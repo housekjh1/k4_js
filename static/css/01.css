@@ -1,0 +1,18 @@
+.detailDiv {
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.detailDiv > div {
+    width: 20%;
+}
+
+.detailDiv > p {
+    width: 80%;
+}
+
+.detailDiv > div > img {
+    border-radius: 50%;
+}
