@@ -16,10 +16,20 @@
             <header>
                 <h1>일일박스 오피스</h1>
                 <form>
-                    <input type="date" id="dt1" name="dt1">
+                    <div class="grid">
+                        <input type="date" id="dt1" name="dt1">
+                        <select id="sel1">
+                            <option value="T" selected>---전체---</option>
+                            <option value="Y">다양성 영화</option>
+                            <option value="N">상업영화</option>
+                        </select>
+                    </div>
                 </form>
             </header>
             <div id="divCon"></div>
+            <footer>
+                <div class="detail"></div>
+            </footer>
         </article>
     </main>
 </body>
