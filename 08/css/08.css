@@ -1,0 +1,14 @@
+thead > tr {
+    background-color: aliceblue;
+}
+
+th {
+    text-align: center;
+}
+
+.numtd {
+    display: inline-flex;
+    width: 100%;
+    justify-content: right;
+    align-items: right;
+}
