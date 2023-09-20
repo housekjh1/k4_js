@@ -7,8 +7,8 @@
 ## 파이어베이스 호스팅
 
 - node js 18.13
-> npm install -g firebase-tools
-> firebase login
-> firebase init
-> firebase init hosting
+> npm install -g firebase-tools<br/>
+> firebase login<br/>
+> firebase init<br/>
+> firebase init hosting<br/>
 > firebase deploy
